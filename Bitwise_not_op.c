@@ -11,5 +11,5 @@ printf("Enter x :");
 scanf("%d",&x);
 z= ~x;
 printf("X~ =%d",z);
-return 0;
+return 0;//ajdgayugduyg
 }

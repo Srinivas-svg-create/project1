@@ -11,4 +11,5 @@ int main()
     scanf("%d/n%d",&x,&y);
     int z= x^y;
     printf("XOR of x^Y= %d",z);
+    ////////
 }
